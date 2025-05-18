@@ -24,7 +24,7 @@ function App() {
         }}
       >
         <img
-          src="/my-photo.jpg"
+          src="my-photo.jpg"
           alt="Samiksha Mudunuri"
           className="img-fluid rounded-circle"
           style={{
